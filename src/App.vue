@@ -4,9 +4,9 @@
   </div>
 </template>
 
-<style lang="scss">
+<style >
 #app {
-  font-family: 'Krub', sans-serif;
+  font-family: "Krub", sans-serif;
   overflow-x: hidden;
 }
 </style>
